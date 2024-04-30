@@ -1,7 +1,7 @@
 # Mentorness Internship Tasks
 
 # Task1 :-                                                                                                                             
-* **Topic :-**      Connecting The Data Source                                                                                                                           
+* **Topic :-**      Connecting the data source                                                                                                                         
 * **Presentation Link :-**                                                                                                                                                 
   https://drive.google.com/file/d/1gSta4Lh_6MFEB5JlSdjMMQcf5eokwIPt/view?usp=drivesdk                                                                                                    
 * **Linkedin post :-**                                                                                                                                                                            
