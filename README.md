@@ -8,5 +8,8 @@
   https://drive.google.com/file/d/1gSta4Lh_6MFEB5JlSdjMMQcf5eokwIPt/view?usp=drivesdk
 
 # Task2 :-
-* **Github Repository :-**                                                                                                   
-  https://github.com/MyProjects-5/Decode-Gaming-Behaviour
+* **Github Repository :-**                                                                                                                                                                 
+  https://github.com/MyProjects-5/Decode-Gaming-Behaviour                                                                                                                                                            
+* **Presentation Link :-**                                                                                                        
+  https://drive.google.com/file/d/1Jkb28-PMVXYFddWJXSanu-PuWbobWTRS/view?usp=drivesdk                                                                                
+* **Linkedin post :-**                                                                                                                     
