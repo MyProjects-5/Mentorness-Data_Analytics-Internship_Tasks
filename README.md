@@ -18,8 +18,8 @@
 # Task3 :-
 * **Topic :-**      Airplane Crash analysis using Tableau
 * **Github Repository :-**                                                                                                                                                                 
-  https://github.com/MyProjects-5/Decode-Gaming-Behaviour                                                                                                                                                            
+  https://github.com/MyProjects-5/Airplane-Crash-Analysis                                                                                                                                                            
 * **Presentation Link :-**                                                                                                                    
-  https://drive.google.com/file/d/1Jkb28-PMVXYFddWJXSanu-PuWbobWTRS/view?usp=drivesdk                                                                                
+  https://drive.google.com/file/d/1E7eGRYCKN13czKwJzkyH-VATprZJEGa-/view?usp=drivesdk                                                                                
 * **Linkedin post :-**                                                                 
   https://www.linkedin.com/posts/nagendra-v-kini-9639ab285_dataanalysis-gaminginsights-internshipsuccess-activity-7190180377691357187-BUQg?utm_source=share&utm_medium=member_desktop                                  
