@@ -23,5 +23,5 @@
   https://public.tableau.com/views/AirplaneCrashAnalysis_17142097297940/AirplaneCrashAnalysis?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 * **Presentation Link :-**                                                                                                                                                                                 
   https://drive.google.com/file/d/1E7eGRYCKN13czKwJzkyH-VATprZJEGa-/view?usp=drivesdk                                                                                              
-* **Linkedin post :-**                                                                                      
-  https://www.linkedin.com/posts/nagendra-v-kini-9639ab285_dataanalysis-gaminginsights-internshipsuccess-activity-7190180377691357187-BUQg?utm_source=share&utm_medium=member_desktop                                      
+* **Linkedin post :-**                                                                                                                
+  https://www.linkedin.com/posts/nagendra-v-kini-9639ab285_tableau-airplanecrashanalysis-dashboard-activity-7191326523084140544-ITT4?utm_source=share&utm_medium=member_desktop                                    
