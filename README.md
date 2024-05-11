@@ -14,7 +14,7 @@
 * **Presentation Link :-**                                                                                                        
   https://drive.google.com/file/d/1Jkb28-PMVXYFddWJXSanu-PuWbobWTRS/view?usp=drivesdk                                                                                
 * **Linkedin post :-**                                                                 
-  https://www.linkedin.com/posts/nagendra-v-kini-9639ab285_dataanalysis-gaminginsights-internshipsuccess-activity-7190180377691357187-BUQg?utm_source=share&utm_medium=member_desktop                                                                                                                
+  https://www.linkedin.com/posts/nagendravkini_dataanalysis-gaminginsights-internshipsuccess-activity-7190180377691357187-xTZ5?utm_source=share&utm_medium=member_android                                                                                                               
 ## Task3 :-
 * **Topic :-**      Airplane Crash analysis using Tableau                                                                   
 * **Github Repository :-**                                                                                                                                                                         
