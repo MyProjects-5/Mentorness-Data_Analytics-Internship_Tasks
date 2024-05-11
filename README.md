@@ -1,4 +1,4 @@
-# Mentorness Internship Task
+# Mentorness Internship Tasks
 
 ## Task1 :-                                                                                                                             
 * **Topic :-**      Connecting the data source                                                                                                                         
