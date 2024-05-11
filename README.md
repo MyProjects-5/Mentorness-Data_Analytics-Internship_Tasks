@@ -5,7 +5,7 @@
 * **Presentation Link :-**                                                                                                                                                 
   https://drive.google.com/file/d/1gSta4Lh_6MFEB5JlSdjMMQcf5eokwIPt/view?usp=drivesdk                                                                                                    
 * **Linkedin post :-**                                                                                                                                                                            
-  https://www.linkedin.com/posts/nagendra-v-kini-9639ab285_databasemanagement-primarykeys-foreignkeys-activity-7188613151070871553-vCES?utm_source=share&utm_medium=member_desktop
+  https://www.linkedin.com/posts/nagendravkini_databasemanagement-primarykeys-foreignkeys-activity-7188613151070871553-e7zG?utm_source=share&utm_medium=member_android
 
 ## Task2 :-
 * **Topic :-**      Game analysis using SQL
